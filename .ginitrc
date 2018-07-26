@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mv module $1
